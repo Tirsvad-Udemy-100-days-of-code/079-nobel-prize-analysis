@@ -13,7 +13,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2026-11-12 | Deprecated | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [23ad5bb] |
 | 2026-11-14 | Deprecated | Jens Tirsvad Nielsen | AI as stand-in for S01 | Udemy screenshots replaced by own-word lecture summaries (copyright) | [cdfa062] |
-| 2026-11-16 | Accepted | Jens Tirsvad Nielsen | S01 (AI as stand-in) | Added objective 7, success criterion 7, a scope item, an out-of-scope item, a risk, assumptions and constraints for the baseline milestone MIL-004; set the domain to education; reviewed in autonomous mode, not independent<br>Reviewed in RC-011: Go | pending |
+| 2026-11-16 | Accepted | Jens Tirsvad Nielsen | S01 (AI as stand-in) | Added objective 7, success criterion 7, a scope item, an out-of-scope item, a risk, assumptions and constraints for the baseline milestone MIL-004; set the domain to education; reviewed in autonomous mode, not independent<br>Reviewed in RC-011: Go | [ddaac3b] |
 
 ---
 
@@ -141,3 +141,4 @@ Proceed — the scope is small, the source is fixed and the result serves all th
 [cdfa062]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/commit/cdfa062047dac9523db6e6f4a91d257a78922bf0
 [PP-001]: ./project-plan.md
 [MIL-004]: ./milestones/mil-004-framework-baseline.md
+[ddaac3b]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/commit/ddaac3b73f27f28e349288470599ebadb04e7c41

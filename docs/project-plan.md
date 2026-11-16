@@ -13,7 +13,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2026-11-12 | Deprecated | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [23ad5bb] |
 | 2026-11-14 | Deprecated | Jens Tirsvad Nielsen | AI as stand-in for S01 | Udemy screenshots replaced by own-word lecture summaries (copyright) | [cdfa062] |
-| 2026-11-16 | Accepted | Jens Tirsvad Nielsen | S01 (AI as stand-in) | Added the baseline gateway MIL-004 with its schedule row, scope coverage, dependency, risk and Gantt entries; recorded the move of the end date, the domain, the open pull request #34, the open issue #35, the prompt log and the sidebar change in the Planning Assumptions and Open Issues; set the domain to education; reviewed in autonomous mode, not independent<br>Reviewed in RC-012: Go | pending |
+| 2026-11-16 | Accepted | Jens Tirsvad Nielsen | S01 (AI as stand-in) | Added the baseline gateway MIL-004 with its schedule row, scope coverage, dependency, risk and Gantt entries; recorded the move of the end date, the domain, the open pull request #34, the open issue #35, the prompt log and the sidebar change in the Planning Assumptions and Open Issues; set the domain to education; reviewed in autonomous mode, not independent<br>Reviewed in RC-012: Go | [ddaac3b] |
 
 ---
 
@@ -105,3 +105,4 @@ A No-Go on a gateway holds the later gateways; S01 decides whether the end date 
 [cdfa062]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/commit/cdfa062047dac9523db6e6f4a91d257a78922bf0
 [MIL-004]: ./milestones/mil-004-framework-baseline.md
 [ms-600]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-nobel-prize-analysis/milestone/600
+[ddaac3b]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/commit/ddaac3b73f27f28e349288470599ebadb04e7c41

@@ -11,7 +11,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2026-11-12 | Deprecated | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [23ad5bb] |
 | 2026-11-14 | Deprecated | Jens Tirsvad Nielsen | AI as stand-in for S01 | Added RC-010 (lecture summaries replace Udemy screenshots) | [cdfa062] |
-| 2026-11-16 | Accepted | Jens Tirsvad Nielsen | S01 (AI as stand-in) | Updated for the baseline milestone MIL-004: set the domain education of the changed documents, added the milestone MIL-004, the review records RC-011 to RC-014 and the wiki review; reviewed in autonomous mode, not independent | pending |
+| 2026-11-16 | Accepted | Jens Tirsvad Nielsen | S01 (AI as stand-in) | Updated for the baseline milestone MIL-004: set the domain education of the changed documents, added the milestone MIL-004, the review records RC-011 to RC-014 and the wiki review; reviewed in autonomous mode, not independent | [ddaac3b] |
 
 ---
 
@@ -77,3 +77,4 @@ Tracks backward and forward links between artifact instances so that traceabilit
 [RC-012]: ./reviews/rc-012-project-plan-baseline.md
 [RC-013]: ./reviews/rc-013-milestone-004.md
 [RC-014]: ./reviews/rc-014-wiki-baseline.md
+[ddaac3b]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/commit/ddaac3b73f27f28e349288470599ebadb04e7c41
